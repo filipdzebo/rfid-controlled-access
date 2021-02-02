@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.Form1.resources
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\bin\Debug\Evidencija pristupa.exe.config
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\bin\Debug\Evidencija pristupa.exe
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\bin\Debug\Evidencija pristupa.pdb
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\Evidencija pristupa.exe
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\Evidencija pristupa.pdb
+C:\Users\Korisnik\Desktop\New folder\KUI_Projekat\KUI_Projekat\obj\Debug\KUI_Projekat.AboutBox1.resources
